@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.Click {
+    padding: 0.5rem 1.5rem;
+    border-radius: 7px;
+    border: none;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
